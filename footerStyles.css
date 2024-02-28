@@ -8,7 +8,7 @@
   }
 }
 
-.container {
+.footerContainer {
   height: auto;
   background-color: #fb7a03;
   display: flex;
@@ -72,7 +72,7 @@
 }
 
 @media (max-width: 768px) {
-  .container {
+  .footerContainer {
     display: flex;
     flex-direction: column;
     justify-content: center;
